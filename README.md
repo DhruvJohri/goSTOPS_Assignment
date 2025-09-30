@@ -1,11 +1,11 @@
-# goSTOPS Landing Page 
+# goSTOPS Landing Page Clone
 
-[![GitHub stars](https://img.shields.io/github/stars/DhruvJohri/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
-[![GitHub forks](https://img.shields.io/github/forks/DhruvJohri/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
-[![Issues](https://img.shields.io/github/issues/DhruvJohri/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment/issues)
+[![GitHub stars](https://img.shields.io/github/stars/DhruvJohri/goSTOPS_Assignment.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment)
+[![GitHub forks](https://img.shields.io/github/forks/DhruvJohri/goSTOPS_Assignment.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment)
+[![GitHub issues](https://img.shields.io/github/issues/DhruvJohri/goSTOPS_Assignment.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment/issues)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
-> A modern and responsive clone of the goSTOPS hostel booking page, built with React and Vite.
+> A modern, responsive, and pixel-perfect clone of the goSTOPS hostel booking page, built with React and Vite.
 
 <p align="center">
   <a href="https://go-stops-assignment.vercel.app/" target="_blank">
@@ -17,52 +17,70 @@
   <img src="https://gostops.s3.amazonaws.com/media/images/098_Exterior_02_5ZQZyH0.webp" alt="Project Screenshot" width="80%">
 </p>
 
+---
+
 ## 🚀 About The Project
 
-This project is a front-end clone of a goSTOPS property details page. It's designed to be a pixel-perfect and responsive replica, showcasing a modern web development workflow with React.
+This project is a front-end clone of a goSTOPS property details page. It demonstrates modern web development practices with React, featuring a fully responsive design and interactive UI components.  
 
-### ✨ Features
+### ✨ Key Features
 
--   **Responsive Design**: Looks great on all devices, from mobile phones to desktops.
--   **Component-Based Architecture**: Built with reusable React components.
--   **Interactive UI**: Features a gallery, room details, and booking sections.
--   **Modern Tooling**: Fast development and bundling with Vite.
+- **Responsive Design** – Perfectly adapts to mobile, tablet, and desktop screens.
+- **Component-Based Architecture** – Built with reusable React components for maintainability.
+- **Interactive UI** – Includes image gallery, room details, and booking sections.
+- **Modern Tooling** – Fast development and bundling with Vite.
+- **Live Demo Available** – Hosted on Vercel for quick preview.
+
+---
 
 ## 🛠️ Tech Stack
 
--   [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
--   [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling.
--   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling the application.
+- [React](https://reactjs.org/) – JavaScript library for building interactive UIs.
+- [Vite](https://vitejs.dev/) – Lightning-fast frontend tooling and bundler.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – Styling and responsive layouts.
+
+---
 
 ## 🏁 Getting Started
 
-To get a local copy up and running, follow these simple steps.
+Follow these instructions to get a local copy running.
 
 ### Prerequisites
 
-You need to have Node.js and npm installed on your machine.
--   You can download Node.js (which includes npm) from [nodejs.org](https://nodejs.org/).
+- Node.js and npm installed.  
+  Download Node.js (includes npm) from [nodejs.org](https://nodejs.org/).
 
-### Installation
+### Installation Steps
 
-1.  Clone the repo (replace `your-username/your-repo` with your actual GitHub repository details)
-    ```sh
-    git clone https://github.com/your-username/your-repo.git
+1. **Clone the repository**
+    ```bash
+   git clone https://github.com/DhruvJohri/goSTOPS_Assignment.git
     ```
-2.  Navigate to the project directory
-    ```sh
-    cd goSTOPS_Assignment
-    ```
-3.  Install NPM packages
-    ```sh
-    npm install
-    ```
-4.  Start the development server
-    ```sh
-    npm run dev
-    ```
-    Your app should now be running on `http://localhost:5173/` (or another port if 5173 is busy).
+2. **Navigate to the project directory**
+   ```
+   cd goSTOPS_Assignment
 
-## 📜 License
+   ```
+   
+3. **Install dependencies**
+   ```
+   npm install
 
-Distributed under the MIT License. This is a common, permissive license.
+   ```
+4. **Start the development server**
+   ```
+   npm run dev
+
+   ```
+   
+---
+
+### 🌐 Live Demo
+
+Check out the live version here: https://go-stops-assignment.vercel.app/
+   ```bash
+   git clone https://github.com/DhruvJohri/goSTOPS_Assignment.git
+```
+### ❤️ Connect
+
+GitHub: https://github.com/DhruvJohri
