@@ -1,8 +1,8 @@
 # goSTOPS Landing Page 
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment/issues)
+[![GitHub stars](https://img.shields.io/github/stars/DhruvJohri/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
+[![GitHub forks](https://img.shields.io/github/forks/DhruvJohri/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
+[![Issues](https://img.shields.io/github/issues/DhruvJohri/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment/issues)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 > A modern and responsive clone of the goSTOPS hostel booking page, built with React and Vite.
