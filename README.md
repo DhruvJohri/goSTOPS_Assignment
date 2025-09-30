@@ -1,8 +1,8 @@
-# goSTOPS Landing Page Clone
+# goSTOPS Landing Page 
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=for-the-badge)](https://github.com/your-username/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=for-the-badge)](https://github.com/your-username/your-repo/network)
-[![Issues](https://img.shields.io/github/issues/your-username/your-repo.svg?style=for-the-badge)](https://github.com/your-username/your-repo/issues)
+[![GitHub stars](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
+[![GitHub forks](https://github.com/DhruvJohri/goSTOPS_Assignment.git)
+[![Issues](https://img.shields.io/github/issues/your-username/your-repo.svg?style=for-the-badge)](https://github.com/DhruvJohri/goSTOPS_Assignment/issues)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 > A modern and responsive clone of the goSTOPS hostel booking page, built with React and Vite.
