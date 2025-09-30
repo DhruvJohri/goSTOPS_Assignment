@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gostops.s3.amazonaws.com/media/images/098_Exterior_02_5ZQZyH0.webp" alt="Project Screenshot" width="80%">
+  <img src="https://github.com/DhruvJohri/goSTOPS_Assignment/blob/main/img_assign.png" alt="Project Screenshot" width="80%">
 </p>
 
 ---
