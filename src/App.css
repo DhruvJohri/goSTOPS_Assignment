@@ -511,6 +511,8 @@ body {
   background: #2A2929;
   color: white;
   padding: 40px 0;
+  /* Added to ensure the footer element itself spans the full width */
+  width: 100%;
 }
 
 .footer-content {
